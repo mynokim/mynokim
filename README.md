@@ -7,5 +7,5 @@
 
 
 
-
+![mynokim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-mynomim_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minho020805)](https://solved.ac/minho020805/)
