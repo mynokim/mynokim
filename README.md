@@ -1,18 +1,11 @@
-## Hi there 👋
+# MinhoKim 👨🏻‍💻
 
-<!--
-**mynokim/mynokim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# skills
+### Platforms & Languages
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
-Here are some ideas to get you started:
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minho020805)](https://solved.ac/minho020805/)
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minho020805)](https://solved.ac/minho020805/)
