@@ -1,7 +1,5 @@
-# Kim Min Ho 👨🏻‍💻
-
-![mynokim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynokim_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minho020805)](https://solved.ac/minho020805/)
+# Kim min ho 👨🏻‍💻
+👨🏻‍🎓 Seokyeong University (2022.03~ )
 
 # ⚒️Tech Stacks⚒️
 ### Platforms & Languages
@@ -10,3 +8,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ### Tools
+
+# 🔗Algoritm🔗
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minho020805)](https://solved.ac/minho020805/)
