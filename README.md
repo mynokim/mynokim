@@ -1,5 +1,6 @@
-# Kim min ho 👨🏻‍💻
+# 💁🏻About me💁🏻
 👨🏻‍🎓 Seokyeong University (2022.03~ )
+👨🏻‍💻 I am aiming to become a backend developer
 
 # ⚒️Tech Stacks⚒️
 ### Platforms & Languages
