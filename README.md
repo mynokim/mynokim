@@ -15,7 +15,7 @@
 
 
 # 🔗Algoritm🔗
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minho020805)](https://solved.ac/minho020805/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmh02)](https://solved.ac/minho020805/)
 
 
 # 🏆Achievements🏆
